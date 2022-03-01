@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A particular and full account of several great matters relating to Ireland of the burning and destroying several places by the popish army; as it was delivered from Colonel Walker, governour of Londonderry, and others his friends which came with him from Ireland, to their friends at Chester, August 24. 1689. With an account of Col. Walkers reception and entertainment.</title>
+            <author>T. W.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B10250</idno>
+            <idno type="OCLC"> 80925188</idno>
+            <idno type="STC">Wing W127AA</idno>
+            <idno type="STC">ESTC R186114</idno>
+            <idno type="EEBO-CITATION">80925188</idno>
+            <idno type="OCLC">ocm 80925188</idno>
+            <idno type="VID">192156</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B10250)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192156)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2901:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A particular and full account of several great matters relating to Ireland of the burning and destroying several places by the popish army; as it was delivered from Colonel Walker, governour of Londonderry, and others his friends which came with him from Ireland, to their friends at Chester, August 24. 1689. With an account of Col. Walkers reception and entertainment.</title>
+                  <author>T. W.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for James Partridge at the Post-house at Charing-Cross.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>MDCLXXXIX. [1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: T.W.</note>
+                  <note>"Licensed, August 27. J.F."</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Walker, George, 1645?-1690 --  Early works to 1800.</term>
+               <term>Ireland --  History --  War of 1689-1691 --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:192156:1" rendition="simple:additions"/>
+            <head>A particular and full ACCOUNT Of ſeveral Great Matters relating to IRELAND OF THE Burning and Deſtroying ſeveral Places by the Popiſh Army; As it was delivered from Colonel <hi>Walker,</hi> Go<g ref="char:EOLhyphen"/>vernour of <hi>Londonderry,</hi> and others his Friends which came with him from <hi>Ireland,</hi> to their Friends at <hi>Cheſter, Auguſt</hi> 24. 1689. With an Account of Col. <hi>Walkers</hi> Reception and Entertainment.</head>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>Licenſed, </p>
+                  <closer>
+                     <dateline>
+                        <date>
+                           <hi>Auguſt</hi> 27.</date>
+                     </dateline> 
+                     <signed>J.F.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>SIR,</hi> IT was my good fortune on <hi>Wednesday</hi> laſt to meet with Mr. <hi>Geo. Walker</hi> the Famous &amp; Fortunate Governour of <hi>Londonderry,</hi> and others of his com<g ref="char:EOLhyphen"/>pany in their way from <hi>Edenbourgh</hi> to <hi>Cheſter;</hi> from whence the ſaid Governor goes in the Stage Coach for <hi>London,</hi> where probably you will meet him ſoon after the arrival of this Letter: He has been highly Complemented and Careſſed by all ſorts of People on the Road, and his company is very Acceptable to all who are well wiſh<g ref="char:EOLhyphen"/>ers to the Proteſtant intereſt, and I having had the Honour of a former Acquaintance with him, took the Liberty to Enquire perticularly of him and his Company con<g ref="char:EOLhyphen"/>cerning the preſent Poſture of Affairs in <hi>Ireland,</hi> eſpecially <hi>Londonderry.</hi> I under<g ref="char:EOLhyphen"/>ſtand from them, that although the Siege was carried on with all poſſibe Vigour, and that the continual throwing in of Bombs into the City, which were reckon'd to be about Six hundered, and thereby ſome houſes Demoliſh'd, and moſt of them De<g ref="char:EOLhyphen"/>fac'd; yet the Walls have receiv'd no great Damage, their great Guns having made no conſiderable Impreſſion. And that tho the Beſieged were Reduc'd to the greateſt Extremity; Yet their diet was not ſo ex<g ref="char:EOLhyphen"/>treamly Bad (as has been reported) and for an Inſtance take this account: That when Coll. <hi>Stewart</hi> came from the Iſland of <hi>Inch</hi> to viſit them, he was treated at Dinner with a fat <hi>Turkey,</hi> a diſh of <hi>Chickens</hi> and a diſh of green <hi>Peas,</hi> and that he in requital for their civility ſent them from the Iſland a Preſent of 30 milch <hi>Cows,</hi> &amp; it is worth the obſervation that Coll. <hi>Michelburn</hi> could find a way to preſerve two Excellent <hi>Horſes</hi> in a Seller under Ground, which he preſented to Major General <hi>Kirk:</hi> Upon my farther enquity, I find, that ſeveral of the moſt antient Perſons in <hi>Londonderry</hi> have ſurvived the miſeries of War and Famine, as Mr. <hi>John Mogridge,</hi> Alderman <hi>Jervice</hi> 
+               <abbr>Eſq</abbr> Mr. <hi>Robert Shennan</hi> and others; when on the o<g ref="char:EOLhyphen"/>ther ſide ſome of the younger and more likely Perſons are Dead, as Mr. <hi>Whittle</hi> Miniſter of <hi>Ballyhazzy,</hi> Mr. <hi>Wadmorth</hi> Mi<g ref="char:EOLhyphen"/>niſter of <hi>Erigil,</hi> Dr. <hi>Allexander Lindſey,</hi> Mr. <hi>William Church</hi> and his Son, and many o<g ref="char:EOLhyphen"/>thers too tedious to be Recited in this Let<g ref="char:EOLhyphen"/>ter; I underſtand likewiſe that all the Iron Mills in that Country are Deſtroy'd: That all the Towns and Gentlemens Houſes in the Counties of <hi>Londonderry, Donnegal</hi> and <hi>Tyrone</hi> are burnt to the Ground except the
+<pb facs="tcp:192156:2" rendition="simple:additions"/>City of <hi>Londonderry,</hi> The Towns of <hi>Stra<g ref="char:EOLhyphen"/>bone, Colrain, Dungannan</hi> and <hi>Magharfels,</hi> which laſt was preſerv'd by the kindneſs of ſome Iriſh man whoſe name I do not yet know, he having no mind to be diſcover'd; I underſtand that Capt. <hi>Richard Crofton,</hi> Mr. <hi>Hugh Hammell,</hi> Mr. <hi>Monroe,</hi> Left. <hi>Michel<g ref="char:EOLhyphen"/>burn</hi> and Capt. <hi>Robert White</hi> (a Gentlman who in meer Gallentry left his Eſtate in <hi>England,</hi> and put himſelf into <hi>Londonderry</hi>) are all made Colloners of Foot, Mr. <hi>Al<g ref="char:EOLhyphen"/>lexander Stewart</hi> is a Major, <hi>James Manglin</hi> of <hi>Mayla.</hi> Pridge, and <hi>John Wright,</hi> of <hi>Mory More,</hi> are Captains; <hi>Robert Gregory</hi> and his Brother, <hi>Richard Hammon</hi> and his two Bro<g ref="char:EOLhyphen"/>thers are Officers, and all Eſtabliſh'd under the Kings pay by Major General <hi>Kirk,</hi> who as we are enformed by ſome Perſons on board the victualing Ships return'd from <hi>Londonderry</hi> was then in <hi>Colrain,</hi> which the Rebels Deſerted upon the news of his Ap<g ref="char:EOLhyphen"/>proach, and ſo alſo did the Rebels at <hi>Sligo</hi> upon the approach of the <hi>Iniskilling</hi> Forces, leaving Fourteen pieces of Canon behind them; It is likewiſe confirm'd beyond all doubt and queſtion, That at the engag<g ref="char:EOLhyphen"/>ment of the <hi>Iniskilling</hi> men with the <hi>Iriſh</hi> Forces, there were about three Thouſand of the Enemy Kill'd and Drowned, that Major-General <hi>Macarty</hi> being ſhot through the Arm and the Thigh, was taken Priſo<g ref="char:EOLhyphen"/>ner at <hi>Wattlibridge,</hi> and Sixty Officers with him: They tell me, That the Country a<g ref="char:EOLhyphen"/>bout <hi>Derry,</hi> though much Waſted and Un<g ref="char:EOLhyphen"/>inhabited, is yet Clear and Freed from the <hi>Iriſh;</hi> That the Market in <hi>London Derry,</hi> being to be Supply'd with good Store of freſh Proviſions; That there is an Appear<g ref="char:EOLhyphen"/>ance of a very plentiful Harveſt; but much of it will be Loſt and Spoyled, for want of Labourers to Reap and Save it. Major General <hi>Kirk</hi> has ſent Three Ships into <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> to bring home the Scatter'd and Di<g ref="char:EOLhyphen"/>ſtreſſed People who fled thither for Refuge: I wiſh the like Courſe were taken here<g ref="char:EOLhyphen"/>about, that ſo Multitudes of poor People might be Convey'd back, who are not able to pay for their Fraught. I ſpoke with the Maſter of a Ship lately come from <hi>London<g ref="char:EOLhyphen"/>derry,</hi> who tells me That as he Sail'd hi<g ref="char:EOLhyphen"/>ther being near the Coaſt of <hi>Ireland,</hi> he ſaw Five or Six of the <hi>Engliſh</hi> Frigats Play<g ref="char:EOLhyphen"/>ing upon <hi>Carrickfergus,</hi> and they off the Caſtle at them; part of the Fleet which attended Duke <hi>Schomberg</hi> into <hi>Ireland,</hi> returned hi<g ref="char:EOLhyphen"/>ther on <hi>Monday</hi> laſt, who reports, That they left him with his Army in <hi>Bellfaſt,</hi> in which Place a certain Prieſt with two others of his Crew were ſo Hardy as to Lurk privately to Spye and take a View of our Forces; who being Diſcover'd and brought Priſoners before the Duke, he Generouſly ſet them at Liberty, deſiring them with all Expedition to haſten to their King, and give him an Account, That he was come ſo far to make him a Viſit, and that if it were too much Trouble to him to Travel ſo far, he would be at the Pains to wait upon him at <hi>Dublin.</hi> We expect with much Impati<g ref="char:EOLhyphen"/>ence to hear the Iſſue of this Expedition in<g ref="char:EOLhyphen"/>to <hi>Ireland;</hi> (whether more Horſe and Foot are daily Shipping off from theſe Parts) the Succeſs whereof, will very much Influence the Reſtitution of the Proteſtant Intereſt there; and will particularly Redound to the Advantage of you, and of</p>
+            <closer>
+               <signed>Your humble Servant <hi>T.W.</hi>
+               </signed>
+               <dateline>
+                  <hi>Liverpool</hi>
+                  <date>
+                     <hi>Aug.</hi> 24. 1689.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENTS.</head>
+            <p>THE Art of curing Diſeaſes by Expectation; with Remarks on a ſuppoſed Great Caſe of Appoplectick Fits: Alſo moſt uſeſul Obſervations on Coughs, Conſumptions, Stone, Dropſies, Fea<g ref="char:EOLhyphen"/>vers, and Small Pox; with a Confutation of Diſpenſatories, and other Various Diſcourſes in Phyſick. By <hi>Gideon Harvey,</hi> M. D. <hi>12</hi> s. Sold by <hi>James Partridge</hi> at <hi>Charing Croſs,</hi> and <hi>Randal Taylor</hi> near <hi>Stationers-Hall.</hi>
+            </p>
+            <p>THE Conclave of Phyſicians, in Two Parts, Compleat; detecting their Intrigues, Frauds, and Plots againſt their Patients, and their deſtroy<g ref="char:EOLhyphen"/>ing of the Faculty of Phyſick: Alſo a Peculiar Diſcourſe of the Jeſuits Bark, the Hiſtory there<g ref="char:EOLhyphen"/>of, with its true Uſe and Abuſe. Moreover a Narrative of ſome Eminent Caſes and New Prin<g ref="char:EOLhyphen"/>ciples in Phyſick, of greater Uſe than any yet known: By <hi>Gideon Harvey,</hi> M. D. their Majeſties Phyſician of the <hi>Tower,</hi> and Fellow of the Colledge of Phyſicians of the <hi>Hague:</hi> In <hi>12</hi>
+               <abbr>s.</abbr> Both Printed for, and ſold by <hi>James Par<g ref="char:EOLhyphen"/>tridge</hi> at the <hi>Poſt-houſe</hi> at <hi>Charing-Croſs.</hi>
+            </p>
+         </div>
+         <div type="colophon">
+            <p>LONDON, <hi>Printed for</hi> James Partridge <hi>at the</hi> Poſt-houſe <hi>at</hi> Charing-Croſs. <hi>MDCLXXXIX.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
